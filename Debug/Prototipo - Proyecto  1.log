@@ -1,0 +1,7 @@
+﻿  Prototipo - Proyecto  1.cpp
+C:\Users\Pablo\Desktop\Prototipo - Proyecto  1\Prototipo - Proyecto  1.cpp(1,1) : warning C4005: '__CLR_VER': redefinición de macro
+C:\Users\Pablo\Desktop\Prototipo - Proyecto  1\pch.cpp : message : vea la definición anterior de '__CLR_VER'
+C:\Users\Pablo\Desktop\Prototipo - Proyecto  1\Prototipo - Proyecto  1.cpp(1,1) : warning C4651: Se especificó '/D__CLR_VER=40804010' para el encabezado precompilado pero no para la compilación actual
+C:\Users\Pablo\Desktop\Prototipo - Proyecto  1\Prototipo - Proyecto  1.cpp(185,11) : warning C4101: 'letra': variable local sin referencia
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Prototipo - Proyecto  1.vcxproj -> C:\Users\Pablo\Desktop\Prototipo - Proyecto  1\Debug\Prototipo - Proyecto  1.exe
